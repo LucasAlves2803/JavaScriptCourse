@@ -1,0 +1,15 @@
+.Container{
+    border: 1px solid black;
+    width: 75%;
+    text-align: center;
+}
+.Flex-Container{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+.Flex-Container div{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
